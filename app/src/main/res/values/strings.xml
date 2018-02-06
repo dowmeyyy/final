@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ACAPP</string>
+
+    <!--ERROR MESSAGES-->
+    <string name="emailNotValid">Please enter a valid Email</string>
+    <string-array name="days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>
